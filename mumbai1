@@ -3,3 +3,8 @@ terraform output
 terraform destroy
 terraform graph
 terraform is Iaac tool
+terraform init
+terraform plan
+terraform validate
+terraform apply
+terraform destroy
